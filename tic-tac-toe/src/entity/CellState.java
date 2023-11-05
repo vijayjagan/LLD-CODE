@@ -1,0 +1,1 @@
+package entity;public enum CellState {    EMPTY,    TAKEN}

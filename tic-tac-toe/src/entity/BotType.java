@@ -1,0 +1,1 @@
+package entity;public enum BotType {    EASY,    MEDIUM,    HARD}

@@ -1,0 +1,1 @@
+package entity;public class Bot extends Player {    private final BotType botType;    public Bot(String name, String symbol) {        super(name, symbol);        this.botType = BotType.EASY;    }}

@@ -1,0 +1,1 @@
+package entity;public enum GameState {    WIN,    DRAW,    IN_PROGRESS}
